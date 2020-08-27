@@ -2,7 +2,7 @@
 This repository provides a discription as well as links and pictures of my work during Google Summer of Code 2020. 
 
 # My work
-Basically I developed new embroidery designs and implemented them by using the Catrobat programming language, more specifically the Pocket Code respectively the Embroidery Designer App. I exhibited what embroidery designs are feasible to create with the Catrobat visual programming language. Additionally I worked on an algorithm to fill polygons.
+Basically, I developed new embroidery designs and implemented them by using the Catrobat programming language, more specifically the Pocket Code respectively the Embroidery Designer App. I exhibited what embroidery designs are feasible to create with the Catrobat visual programming language. Additionally I worked on an algorithm to fill polygons.
 
 Furthermore, I have dealt with the possibilities of integrating electronics, i.e. LEDs or microchips, into an embroidery design.
 
