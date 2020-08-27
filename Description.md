@@ -10,26 +10,14 @@ Some parts of my work i documented on the Catrobat Wiki Page in the form of tuto
 
 # Coded Embroidery Projects
 
-Unterwasserwelt (german)
-https://share.catrob.at/app/project/b3c5e9a2-e82e-11ea-9251-005056a36f47
+Cat
+https://share.catrob.at/app/project/af1e5ea7-e827-11ea-9251-005056a36f47
 
 Leuchtkäfer (german)
 https://share.catrob.at/app/project/8d6d24f7-e82e-11ea-9251-005056a36f47
 
-10101 stitch
-https://share.catrob.at/app/project/7b06013b-e82e-11ea-9251-005056a36f47
-
 Olaf
 https://share.catrob.at/app/project/cb9c0fe4-e82d-11ea-9251-005056a36f47
-
-Bird
-https://share.catrob.at/app/project/29be3ef8-e82e-11ea-9251-005056a36f47
-
-Cat
-https://share.catrob.at/app/project/af1e5ea7-e827-11ea-9251-005056a36f47
-
-Logo TU Graz
-https://share.catrob.at/app/project/7f539d63-e82c-11ea-9251-005056a36f47
 
 Blossom
 https://share.catrob.at/app/project/3e58e5b6-e82c-11ea-9251-005056a36f47
@@ -40,20 +28,11 @@ https://share.catrob.at/app/project/d5b89acb-e82b-11ea-9251-005056a36f47
 Butterflies
 https://share.catrob.at/app/project/7bc2fd2c-e82b-11ea-9251-005056a36f47
 
-Cupcake (german)
-https://share.catrob.at/app/project/d05b5da2-e82a-11ea-9251-005056a36f47
-
-Loewe (german)
-https://share.catrob.at/app/project/8c1334b4-e82a-11ea-9251-005056a36f47
-
 Rainbow
 https://share.catrob.at/app/project/0a40da3a-e82a-11ea-9251-005056a36f47
 
 Biene (german)
 https://share.catrob.at/app/project/155cd64f-e829-11ea-9251-005056a36f47
-
-stitches
-https://share.catrob.at/app/project/7e6b2636-e828-11ea-9251-005056a36f47
 
 Maker Days Roboter (german)
 https://share.catrob.at/app/project/a2b7433c-e82b-11ea-9251-005056a36f47
@@ -61,14 +40,8 @@ https://share.catrob.at/app/project/a2b7433c-e82b-11ea-9251-005056a36f47
 Violin clef
 https://share.catrob.at/app/project/00e4cb4f-e828-11ea-9251-005056a36f47
 
-Strawberry
-https://share.catrob.at/app/project/9cc13f82-e827-11ea-9251-005056a36f47
-
 Little Bird
 https://share.catrob.at/app/project/c12d099f-e827-11ea-9251-005056a36f47
-
-Trunk
-https://share.catrob.at/app/project/d02e19d7-e827-11ea-9251-005056a36f47
 
 Rudolf
 https://share.catrob.at/app/project/b648c1a2-e79e-11ea-9251-005056a36f47
@@ -94,6 +67,37 @@ https://share.catrob.at/app/project/ae72472d-e799-11ea-9251-005056a36f47
 Skye (in progress)
 
 Yoshi (in progress)
+
+These projects include algorithms for special stitches like a grid stitch, which are implemented by just using the stitch brick instead of preprogrammed stitches.
+
+stitches
+https://share.catrob.at/app/project/7e6b2636-e828-11ea-9251-005056a36f47
+
+Unterwasserwelt (german)
+https://share.catrob.at/app/project/b3c5e9a2-e82e-11ea-9251-005056a36f47
+
+10101 stitch
+https://share.catrob.at/app/project/7b06013b-e82e-11ea-9251-005056a36f47
+
+Cupcake (german)
+https://share.catrob.at/app/project/d05b5da2-e82a-11ea-9251-005056a36f47
+
+Strawberry
+https://share.catrob.at/app/project/9cc13f82-e827-11ea-9251-005056a36f47
+
+Trunk
+https://share.catrob.at/app/project/d02e19d7-e827-11ea-9251-005056a36f47
+
+These projects include the tatami fill stitch algorithm to fill some areas in the design.
+
+Bird
+https://share.catrob.at/app/project/29be3ef8-e82e-11ea-9251-005056a36f47
+
+Logo TU Graz
+https://share.catrob.at/app/project/7f539d63-e82c-11ea-9251-005056a36f47
+
+Loewe (german)
+https://share.catrob.at/app/project/8c1334b4-e82a-11ea-9251-005056a36f47
 
 
 # Work with electronics in combination with embroidery
