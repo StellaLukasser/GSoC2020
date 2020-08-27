@@ -69,6 +69,8 @@ Skye (in progress)
 Yoshi (in progress)
 
 
+
+
 These projects include algorithms for special stitches like a grid stitch, which are implemented by just using the stitch brick instead of preprogrammed stitches:
 
 stitches
@@ -88,6 +90,8 @@ https://share.catrob.at/app/project/9cc13f82-e827-11ea-9251-005056a36f47
 
 Trunk
 https://share.catrob.at/app/project/d02e19d7-e827-11ea-9251-005056a36f47
+
+
 
 
 These projects include the tatami fill stitch algorithm to fill some areas in the design:
