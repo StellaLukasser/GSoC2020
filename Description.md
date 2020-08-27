@@ -98,7 +98,7 @@ Yoshi (in progress)
 
 # Work with electronics in combination with embroidery
 
- On the Catrobat wiki page "Electronics to shine" I have documented how to sew LEDs and a coin cell battery onto a design.
+ On the Catrobat wiki page https://wiki.catrobat.org/bin/view/Education/Embroidery/Special%20Embroidery%20Designs%3A%20Electronics%20to%20shine/ I have documented how to sew LEDs and a coin cell battery onto a design.
 
 Another goal would have been to be able to control the LEDs, which are built into the design, with a microchip. This worked with the Arduino UNO in combination with the Bluetooth module HC-05, but the problem was that this hardware, especially the Arduino UNO, is not sewable. Modern sewable Bluetooth modules all work with Bluetooth Low Energy, but the Embroidery Designer does not support this type of Bluetooth -> Solution: make Embroidery Designer compatible (high effort) or use an old Bluetooth module.
 
