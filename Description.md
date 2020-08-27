@@ -95,9 +95,8 @@ https://share.catrob.at/app/project/d02e19d7-e827-11ea-9251-005056a36f47
 
 
 These projects include the tatami fill stitch algorithm to fill some areas in the design:
-
+![2](https://user-images.githubusercontent.com/70317071/91429995-1def9880-e85f-11ea-8de2-c00f465636a2.png)
 Bird
-https://user-images.githubusercontent.com/70317071/91429995-1def9880-e85f-11ea-8de2-c00f465636a2.png
 https://share.catrob.at/app/project/29be3ef8-e82e-11ea-9251-005056a36f47
 
 Logo TU Graz
@@ -105,6 +104,7 @@ https://share.catrob.at/app/project/7f539d63-e82c-11ea-9251-005056a36f47
 
 Loewe (german)
 https://share.catrob.at/app/project/8c1334b4-e82a-11ea-9251-005056a36f47
+
 
 
 # Work with electronics in combination with embroidery
