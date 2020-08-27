@@ -12,8 +12,8 @@ Some parts of my work i documented on the Catrobat Wiki Page in the form of tuto
 
 # Coded Embroidery Projects
 
-| Project        | Link           |
-| ------------- |---------------|
+| Project        | Link           |   |
+| ------------- |---------------|------------  |
 | Cat           | https://share.catrob.at/app/project/af1e5ea7-e827-11ea-9251-005056a36f47 |
 | Leuchtkäfer (german)           | https://share.catrob.at/app/project/8d6d24f7-e82e-11ea-9251-005056a36f47 |
 | Olaf           | https://share.catrob.at/app/project/cb9c0fe4-e82d-11ea-9251-005056a36f47 |
@@ -30,7 +30,7 @@ Some parts of my work i documented on the Catrobat Wiki Page in the form of tuto
 | Horse           | https://share.catrob.at/app/project/931ab8cc-e79b-11ea-9251-005056a36f47 |
 | Panda           | https://share.catrob.at/app/project/6a88266e-e79c-11ea-9251-005056a36f47 |
 | Dog     | https://share.catrob.at/app/project/5d061b93-e79b-11ea-9251-005056a36f47 |
-| Pineapple | https://share.catrob.at/app/project/70862d02-e79a-11ea-9251-005056a36f47 |
+| Pineapple | https://share.catrob.at/app/project/70862d02-e79a-11ea-9251-005056a36f47 | 
 | dumbbell | https://share.catrob.at/app/project/ae72472d-e799-11ea-9251-005056a36f47 |
 | Skye (in progress) | |
 | Yoshi (in progress) | |
@@ -39,8 +39,8 @@ Some parts of my work i documented on the Catrobat Wiki Page in the form of tuto
 
 These projects include algorithms for special stitches like a grid stitch, which are implemented by just using the stitch brick instead of preprogrammed stitches:
 
-| Project        | Link           |
-| ------------- |---------------|
+| Project        | Link           | |
+| ------------- |---------------|---------------|
 | stitches | https://share.catrob.at/app/project/7e6b2636-e828-11ea-9251-005056a36f47 |
 | Unterwasserwelt (german) | https://share.catrob.at/app/project/b3c5e9a2-e82e-11ea-9251-005056a36f47 |
 | 10101 stitch | https://share.catrob.at/app/project/7b06013b-e82e-11ea-9251-005056a36f47 |
