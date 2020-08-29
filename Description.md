@@ -8,7 +8,7 @@ Basically, I developed new embroidery designs and implemented them by using the 
 
 Furthermore, I have dealt with the possibilities of integrating electronics, i.e. LEDs or microchips, into an embroidery design.
 
-Some parts of my work i documented on the Catrobat Wiki Page in the form of tutorials or information pages.
+Some parts of my work are documented on the Catrobat Wiki Page in the form of tutorials or information pages.
 
 # Coded Embroidery Projects
 
@@ -65,7 +65,7 @@ These projects include the tatami fill stitch algorithm to fill some areas in th
 ![dokumentation_7](https://user-images.githubusercontent.com/70317071/91435290-62326700-e866-11ea-936c-2abad809db63.png)
 
 
-On the Catrobat wiki page https://wiki.catrobat.org/bin/view/Education/Embroidery/Special%20Embroidery%20Designs%3A%20Electronics%20to%20shine/ I have documented how to sew LEDs and a coin cell battery onto a design.
+On the Catrobat [wiki page "Special Embroidery - Electronics to shine"](https://wiki.catrobat.org/bin/view/Education/Embroidery/Special%20Embroidery%20Designs%3A%20Electronics%20to%20shine/) I have documented how to sew LEDs and a coin cell battery onto a design.
 
 Another goal would have been to be able to control the LEDs, which are built into the design, with a microchip. This worked with the Arduino UNO in combination with the Bluetooth module HC-05, but the problem was that this hardware, especially the Arduino UNO, is not sewable. Modern sewable Bluetooth modules all work with Bluetooth Low Energy, but the Embroidery Designer does not support this type of Bluetooth -> Solution: make Embroidery Designer compatible (high effort) or use an old Bluetooth module.
 
@@ -80,7 +80,7 @@ https://wiki.catrobat.org/bin/view/Education/Embroidery/Special%20Embroidery%20D
 https://wiki.catrobat.org/bin/view/Education/Embroidery/Introduction%20To%20The%20World%20Of%20Embroidery/
 
 
-Additionally, I created each page in german too, as well as many tutorial pages, which you can find on this website https://wiki.catrobat.org/bin/view/Education/Embroidery/?language=en. 
+Additionally, I created each page in german too, as well as many tutorial pages, which you can find on [this website](https://wiki.catrobat.org/bin/view/Education/Embroidery/?language=en). 
 
 # Work in progress
 
