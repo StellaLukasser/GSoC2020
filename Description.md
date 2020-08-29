@@ -80,7 +80,7 @@ https://wiki.catrobat.org/bin/view/Education/Embroidery/Special%20Embroidery%20D
 https://wiki.catrobat.org/bin/view/Education/Embroidery/Introduction%20To%20The%20World%20Of%20Embroidery/
 
 
-Additionally, I created each page in german too as well as many tutorial pages additional tutorialpages on this page https://wiki.catrobat.org/bin/view/Education/Embroidery/?language=en. 
+Additionally, I created each page in german too, as well as many tutorial pages, which you can find on this website https://wiki.catrobat.org/bin/view/Education/Embroidery/?language=en. 
 
 # Work in progress
 
